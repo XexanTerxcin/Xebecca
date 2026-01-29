@@ -16,7 +16,7 @@ Automatically trims working sets and clears standby memory every 5, 10, or 30 mi
 Sends Windows notifications showing how much memory was freed.
 
 # Timer Resolution Control:
-Set system timer resolution to 0.5 ms or 1 ms, enforced at intervals (5s, 10s, 30s, or 5 min).
+Set system timer resolution to 0.5 ms, 1 ms or 2 ms, enforced at intervals (5s, 10s, 30s, or 5 min in v1.0 and 30s, 1 min, 5 min, or 10 min in v1.1 & v1.2).
 Keeps latency low for smoother gameplay and responsiveness.
 
 # Temp File Cleaner:
