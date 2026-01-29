@@ -1,7 +1,9 @@
 # Xebecca
 🖥️ Xebecca — Performance Optimizer by SMY GAMER
 Xebecca is a Windows desktop utility designed to optimize system performance for gaming or stable everyday use. Built with a sleek dark + neon green interface, it gives users direct control over advanced power options, RAM cleaning, and timer resolution — all from a simple GUI.
+
 <img width="527" height="412" alt="image" src="https://github.com/user-attachments/assets/40e492e6-bb8b-4302-9c36-fe51fd23c5ef" />
+
 ✨ Key Features
 # Game Mode:
 Forces maximum CPU performance: 100% minimum/maximum processor state, aggressive boost mode, active cooling, and full core parking disabled.
