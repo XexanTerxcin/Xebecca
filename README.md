@@ -1,4 +1,4 @@
-# Xebecca
+# Xebecca (Optimizer Tools - Made for Gamers)
 🖥️ Xebecca — Performance Optimizer by SMY GAMER
 Xebecca is a Windows desktop utility designed to optimize system performance for gaming or stable everyday use. Built with a sleek dark + neon green interface, it gives users direct control over advanced power options, RAM cleaning, and timer resolution — all from a simple GUI.
 
